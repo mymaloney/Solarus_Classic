@@ -1,0 +1,47 @@
+CREDITS:
+Tiles in dungeon.png and NPC's in npc.png by Jerom:
+jerom-bd.blogspot.com
+
+Solarus Logo by Alex Gleason
+
+Tiles in dungeon.png by Diarandor
+
+Special Thanks to
+froggy77
+wekhter
+Mazatrillionator
+The Solarus Team
+
+and devs like you.
+
+~~~~~~~~~~
+
+THE SOLARUS CLASSIC PACK
+
+Inside is a pack of assets for use in the Solarus Engine in the 8-bit style, 
+specifically the NES, the Game Boy, and the Game Boy Colour.
+
+Multiple versions of certain files exist: those with the suffix "colour" are
+pre-coloured for easy use. The suffix "gb" denotes a classic Game Boy colour
+palette. All others are in a grayscale palette for easy recolouring.
+
+TO RECOLOUR:
+
+To get the most out of this pack, you'll have to recolour the sprites and tiles.
+The easiest way to do that is to open it up in the Gimp image editing program,
+and use the "Color Exchange" tool in Colors>Map>Color Exchange. Simply use the
+sample palette in the file as the samples to exchange from and two.
+
+FOR AN AUTHENTIC LOOK:
+
+For an authentic GBC look, make sure to use no more than 4 colours in any 8x8
+sprite (including transparency). For an NES look, use no more than a few animated
+sprites per screen, and no more than eight colours per screen. For a Gameboy look,
+simply use the Gameboy palette on the far left side of the sample palette, using
+either gray or the lightest green for your white and the darkest green for your
+black. For an NES resolution, have your quest size set to 256x240. For the GB
+and GBC, set it to 160x144.
+
+TO HAVE FUN:
+
+I ain't stopping you.
