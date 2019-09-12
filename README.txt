@@ -6,10 +6,12 @@ Solarus Logo by Alex Gleason
 
 Tiles in dungeon.png by Diarandor
 
+Items in item.png by wekhter
+
 Special Thanks to
 froggy77
 wekhter
-Mazatrillionator
+Maxatrillionator
 The Solarus Team
 
 and devs like you.
@@ -21,9 +23,10 @@ THE SOLARUS CLASSIC PACK
 Inside is a pack of assets for use in the Solarus Engine in the 8-bit style, 
 specifically the NES, the Game Boy, and the Game Boy Colour.
 
-Multiple versions of certain files exist: those with the suffix "colour" are
-pre-coloured for easy use. The suffix "gb" denotes a classic Game Boy colour
-palette. All others are in a grayscale palette for easy recolouring.
+Multiple branches of the git exist: Colour indicates that the sprites have been 
+pre-coloured in a psuedo Game Boy Color style. Gameboy indicated that the sprites 
+have been pre-coloured in a Game Boy style. The master branch is the uncoloured
+version.
 
 TO RECOLOUR:
 
