@@ -6,13 +6,13 @@ derivatives by myself or are original creations of my own.
 Breandan Maloney:
 Maloney#6724 on Discord
 
-Tiles in dungeon.png and NPC's in npc.png by Jerom:
+Tiles in dungeon.png, NPC's in characters.png, and items in items.png by Jerom:
 jerom-bd.blogspot.com
 
 Solarus Logo and animals in animals.png by Alex Gleason:
 voadi.com
 
-Tiles in dungeon.png by Diarandor
+Tiles in dungeon.png and chameleon.png by Diarandor
 
 Items in item.png by wekhter
 
