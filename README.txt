@@ -1,8 +1,16 @@
-CREDITS:
+FULL CREDITS:
+The author credited on each individual sheet is the author
+of at least one sprite on the sheet. All sprites are
+derivatives by myself or are original creations of my own.
+
+Breandan Maloney:
+Maloney#6724 on Discord
+
 Tiles in dungeon.png and NPC's in npc.png by Jerom:
 jerom-bd.blogspot.com
 
-Solarus Logo by Alex Gleason
+Solarus Logo and animals in animals.png by Alex Gleason:
+voadi.com
 
 Tiles in dungeon.png by Diarandor
 
